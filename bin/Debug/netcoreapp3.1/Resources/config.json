@@ -1,0 +1,5 @@
+{
+  "token": "YOUR TOKEN",
+  "cmdPrefix": "!",
+  "statustext": null //to be defined
+}
