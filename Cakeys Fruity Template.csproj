@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Cakeys_Fruity_Template</RootNamespace>
+    <AssemblyName>Cakeys_Fruity_Template</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="CMD\ChangeStatus.cs~RFc06e06.TMP" />
+    <None Remove="CMD\Swag.cs~RFea50534.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Discord.Net" Version="2.4.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.2" />
+  </ItemGroup>
+
+</Project>
