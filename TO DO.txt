@@ -1,8 +1,5 @@
 TO DO:
 
-- Improved Logging System
-- Audio Module (Maybe Lavalink idk)
-
 TBD:
 - Auth System
 - Leveling System
